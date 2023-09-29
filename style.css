@@ -3,7 +3,16 @@
     padding : 0;
 }
 
-h3{
-    color : green;
-    background-color: aquamarine;
+.bulb{
+    margin : 100px;
+    height : 99px;
+    width : 99px;
+    border-radius: 50%;
+    color : grey;
+    background-color: grey;
+}
+
+button{
+    padding : 10px;
+    margin-left : 127px;
 }
